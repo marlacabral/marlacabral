@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Marla Cabral
 
 - 🔭 I’m currently working como Dev Full Stack voltada para  Marketing/UX
-- 🌱 I’m currently learning Blockchain
+- �  I'm learning Blockchain and developing an e-commerce for my TCC 
 - 😄 Pronouns:  ela/dela
 
 <div>
