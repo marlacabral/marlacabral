@@ -1,4 +1,4 @@
-### Olá! Eu sou a Marla Cabral
+### Hi! I am Marla Cabral
 
 - 🔭 I’m currently working como Dev Full Stack voltada para  Marketing/UX
 - �  I'm learning Blockchain and developing an e-commerce for my TCC 
