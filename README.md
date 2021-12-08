@@ -40,8 +40,5 @@
 
 <div>
   <a href="https://www.linkedin.com/in/marla-cabral-031428124/" tarket="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:devmarlacabral@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
-  ![Snake animation](https://github.com/marlacabral/marlacabral/blob/main/github-contribution-grid-snake.svg)
-  
+  <a href="mailto:devmarlacabral@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 </div>
