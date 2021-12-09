@@ -1,6 +1,6 @@
 ### Hi! I am Marla Cabral 
 
-<img src="https://github.com/marlacabral/marlacabral/blob/main/CapaPerfil.png">
+<img src="https://github.com/marlacabral/marlacabral/blob/main/CapaPerfilDt.png">
 
 <div>
   <a href="https://github.com/marlacabral">
