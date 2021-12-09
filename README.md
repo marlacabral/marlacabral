@@ -1,5 +1,7 @@
 ### Hi! I am Marla Cabral
 
+<img src="https://github.com/marlacabral/marlacabral/blob/main/Sem%20t%C3%ADtulo.png">
+
 - 🔭 I’m currently working como Dev Full Stack voltada para  Marketing/UX
 - �  I'm learning Blockchain and developing an e-commerce for my TCC 
 - 😄 Pronouns:  ela/dela
